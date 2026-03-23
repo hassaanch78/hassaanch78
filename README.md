@@ -51,6 +51,20 @@
 
 ---
 
+## 🏆 My GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hassaanch78&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hassaanch78&theme=radical&no-frame=true&margin-w=10&margin-h=10&rank=PullShark" alt="Pull Shark Badge" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hassaanch78&theme=radical&no-frame=true&margin-w=10&margin-h=10&rank=YOLO" alt="YOLO Badge" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hassaanch78&theme=radical&no-frame=true&margin-w=10&margin-h=10&rank=Quickdraw" alt="Quickdraw Badge" />
+</p>
+
+---
+
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -71,14 +85,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanch78&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassaanch78&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
