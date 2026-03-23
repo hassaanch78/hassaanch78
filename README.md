@@ -1,55 +1,53 @@
-<h1 align="center">Hi 👋, I'm Hassaan Rasool</h1>
-<h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast | Future Full Stack Engineer</h3>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Hassaan+Rasool;Frontend+Developer+💻;UI%2FUX+Designer+🎨;Future+Full+Stack+Engineer+🚀" />
+</p>
+
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 ---
 
 ## 🌟 About Me
-✨ Passionate developer focused on building **modern, responsive, and animated web experiences**  
-🎯 Dedicated to clean UI, smooth UX, and performance optimization  
-💡 Turning ideas into interactive digital products  
+✨ Passionate developer crafting **modern, responsive & animated web experiences**  
+🎯 Focused on **clean UI, smooth UX & performance**  
+💡 Turning ideas into powerful digital products  
 
 ---
 
-## 🌐 My Portfolio
+## 🚀 Premium Action Buttons
 
 <p align="center">
   <a href="https://github.com/hassaanch78/hassaan-portfolio">
-    <img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-Live%20Project-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀%20Portfolio-Visit%20Now-ff416c?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hassaan-rasool-599682308">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hassaanchaudhary78@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-ff0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ## 🏆 Achievements
-
-🥇 Built multiple **responsive portfolio websites with modern UI/UX**  
-🚀 Developed **full-stack projects using React & Laravel**  
-💡 Strong grip on **frontend performance & animations**  
-🎯 Completed projects in **AI, Networking & Web Development**  
+🥇 Built **responsive & animated portfolio websites**  
+🚀 Developed **React + Laravel full-stack apps**  
+💡 Strong in **UI/UX + performance optimization**  
+🎯 Projects in **AI, Networking & Web Development**  
 
 ---
 
-## 🏅 GitHub Achievements (Badges)
+## 🏅 GitHub Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pull%20Shark-🦈-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/YOLO-😎-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Quickdraw-⚡-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pull%20Shark-🦈-00c3ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YOLO-😎-9d00ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Quickdraw-⚡-ff8800?style=for-the-badge" />
 </p>
-
----
-
-## 🔭 Current Work
-- Building **animated portfolio websites**
-- Developing **full-stack applications (React + Laravel)**
-- Creating **modern UI/UX designs**
-
----
-
-## 🌱 Currently Learning
-- ⚛️ Advanced React.js  
-- 🔗 API Integration  
-- ⚡ Performance Optimization  
 
 ---
 
@@ -64,15 +62,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassaanch78&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hassaanch78&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaanch78&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=hassaanch78&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanch78&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanch78&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -80,33 +78,27 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassaanch78&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hassaanch78&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaanch78&theme=tokyo-night" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hassaan-rasool-599682308">
-    <img src="https://img.shields.io/badge/LinkedIn-Hassaan%20Rasool-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:hassaanchaudhary78@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hassaanchaudhary78@gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaanch78&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 ## ✨ Developer Mindset
-> "First, solve the problem. Then, write the code." 💡
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
