@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Hassaan+Rasool;Frontend+Developer+💻;UI%2FUX+Designer+🎨;Future+Full+Stack+Engineer+🚀" />
 </p>
 
-<!-- Animated Banner -->
+<!-- 3D Animated Background -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Welcome%20To%20My%203D%20World&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
@@ -21,13 +21,13 @@
 
 <p align="center">
   <a href="https://github.com/hassaanch78/hassaan-portfolio">
-    <img src="https://img.shields.io/badge/🚀%20Portfolio-Visit%20Now-ff416c?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀%20Portfolio-Visit%20Now-ff416c?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=ff416c&logoWidth=20" />
   </a>
   <a href="https://www.linkedin.com/in/hassaan-rasool-599682308">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
   <a href="mailto:hassaanchaudhary78@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-Contact-ff0000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-ff0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff0000" />
   </a>
 </p>
 
@@ -47,20 +47,6 @@
   <img src="https://img.shields.io/badge/Pull%20Shark-🦈-00c3ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/YOLO-😎-9d00ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Quickdraw-⚡-ff8800?style=for-the-badge" />
-</p>
-
----
-
-## 🏆 My GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassaanch78&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassaanch78&theme=radical&no-frame=true&margin-w=10&margin-h=10&rank=PullShark" alt="Pull Shark Badge" />
-  <img src="https://github-profile-trophy.vercel.app/?username=hassaanch78&theme=radical&no-frame=true&margin-w=10&margin-h=10&rank=YOLO" alt="YOLO Badge" />
-  <img src="https://github-profile-trophy.vercel.app/?username=hassaanch78&theme=radical&no-frame=true&margin-w=10&margin-h=10&rank=Quickdraw" alt="Quickdraw Badge" />
 </p>
 
 ---
@@ -104,7 +90,7 @@
 
 ---
 
-<!-- Footer Animation -->
+<!-- Footer 3D Animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
