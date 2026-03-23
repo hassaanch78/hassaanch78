@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Hassaan+Rasool;Frontend+Developer+💻;UI%2FUX+Designer+🎨;Future+Full+Stack+Engineer+🚀" />
 </p>
 
 <!-- 3D Animated Waving Banner -->
@@ -20,14 +20,25 @@
 ## 🚀 Explore My Work & Connect With Me
 
 <p align="center">
-  <a href="https://github.com/hassaanch78/hassaan-portfolio">
-    <img src="https://img.shields.io/badge/🚀%20Portfolio-Visit%20Now-ff416c?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://github.com/hassaanch78/hassaan-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Portfolio-Visit%20Now-ff416c?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=ff416c&logoWidth=20" 
+         style="box-shadow: 0 5px 15px rgba(255,65,108,0.5); transition: 0.3s;" 
+         onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 25px rgba(255,65,108,0.7)';" 
+         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 15px rgba(255,65,108,0.5)';" />
   </a>
-  <a href="https://www.linkedin.com/in/hassaan-rasool-599682308">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/hassaan-rasool-599682308" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" 
+         style="box-shadow: 0 5px 15px rgba(0,119,181,0.5); transition: 0.3s;" 
+         onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 25px rgba(0,119,181,0.7)';" 
+         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 15px rgba(0,119,181,0.5)';" />
   </a>
-  <a href="mailto:hassaanchaudhary78@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-Contact-ff0000?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="mailto:hassaanchaudhary78@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-ff0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff0000" 
+         style="box-shadow: 0 5px 15px rgba(255,0,0,0.5); transition: 0.3s;" 
+         onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 25px rgba(255,0,0,0.7)';" 
+         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 15px rgba(255,0,0,0.5)';" />
   </a>
 </p>
 
