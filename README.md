@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Premium Action Buttons
+## 🚀 Explore My Work & Connect With Me
 
 <p align="center">
   <a href="https://github.com/hassaanch78/hassaan-portfolio">
