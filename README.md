@@ -1,11 +1,11 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Hassaan+Rasool;Frontend+Developer+💻;UI%2FUX+Designer+🎨;Future+Full+Stack+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+Profile" />
 </p>
 
-<!-- 3D Animated Background -->
+<!-- 3D Animated Waving Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Welcome%20To%20My%203D%20World&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Explore+My+World&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
@@ -21,13 +21,13 @@
 
 <p align="center">
   <a href="https://github.com/hassaanch78/hassaan-portfolio">
-    <img src="https://img.shields.io/badge/🚀%20Portfolio-Visit%20Now-ff416c?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=ff416c&logoWidth=20" />
+    <img src="https://img.shields.io/badge/🚀%20Portfolio-Visit%20Now-ff416c?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hassaan-rasool-599682308">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hassaanchaudhary78@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-Contact-ff0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff0000" />
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-ff0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -83,7 +83,7 @@
 
 ---
 
-## ✨ Developer Mindset
+## ✨ Motivational Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
